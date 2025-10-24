@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Ava Johnson",
+    "role": "Frontend Developer",
+    "avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Liam Chen",
+    "role": "Backend Engineer",
+    "avatar": "https://randomuser.me/api/portraits/men/33.jpg",
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Sophia Martinez",
+    "role": "UI/UX Designer",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+    "active": true
+  }
+]
