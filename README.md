@@ -1,3 +1,9 @@
+This project is the second step in my React learning journey.
+
+This project is the third step in my React learning journey. It focuses on displaying a list of profile cards generated from a mock JSON file using React JS and Tailwind CSS. Through this project, I learned how to load and render data dynamically by mapping over arrays, use props to pass data between components, and apply conditional rendering to display different UI states (like active or inactive users). I also practiced event handling and the use of React Hooks such as useState and useEffect for managing and loading data. This project helped me strengthen my understanding of building reusable, data-driven components and creating clean, modular UI structures in React.
+
+# Project 3 — Profile Card List (React JS)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
